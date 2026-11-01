@@ -18,7 +18,7 @@ a system-tray GUI for managing USB devices with
 **Visual Studio 2022:** install the *Microsoft Visual Studio Installer Projects*
 extension and the .NET desktop development workload. Set the configuration to
 **Release**, rebuild `UsbipdGui`, then rebuild `Setup`. The MSI is at
-[Setup/Release/UsbipdGui-v1.0.1-Setup.msi](https://github.com/sudiptatalgaon/UsbipdWinGui-English/blob/main/Setup/Release/UsbipdGui-v1.0.1-Setup.msi).
+[Setup/Release/UsbipdGui-v1.0.1-Setup.msi](https://github.com/sudiptatalgaon/UsbipdWinGui-English/Setup/Release/UsbipdGui-v1.0.1-Setup.msi).
 
 **Command line:** run `build-msi.ps1` with the .NET 8 SDK installed.
 
